@@ -1,2 +1,4 @@
 # hello-world
-The first my repository
+
+Hello, people!
+I am Trush Nick. And I am 19 years old student.
